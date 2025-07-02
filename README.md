@@ -1,1 +1,0 @@
-# IR_camera_calibration
