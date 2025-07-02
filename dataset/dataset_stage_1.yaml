@@ -1,0 +1,12 @@
+# dataset path
+path: ./
+train: ./images/train_enhanced
+val: ./images/val
+test: ./images/test
+
+# number of classes
+nc: 1
+
+# class names
+names: 
+ 0: corner
